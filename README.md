@@ -1,3 +1,6 @@
+# THIS REPO IS GOING TO CHANGE SOON, THE PROJECT HAS INDEED MASSIVELY CHANGED
+
+
 # robotics
 Python program setup for small home made robot made with arduino and raspberry pi
 
